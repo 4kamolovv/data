@@ -1,5 +1,11 @@
 [
     {
+        "proname": "project3Title",
+        "propic": "https://4kamolovv.github.io/docs/images/image/imgavtotest.png",
+        "prodesc": "project3Desc",
+        "prolink": "https://4kamolov.github.io/justavtotest/"
+    },
+    {
         "proname": "project1Title",
         "propic": "https://4kamolovv.github.io/docs/images/image/imgmilliy.png",
         "prodesc": "project1Desc",
@@ -16,11 +22,5 @@
         "propic": "https://4kamolovv.github.io/docs/images/image/imgtestuz.png",
         "prodesc": "project2Desc",
         "prolink": "https://4kamolovv.github.io/testapp/"
-    },
-    {
-        "proname": "project3Title",
-        "propic": "https://4kamolovv.github.io/docs/images/image/imgavtotest.png",
-        "prodesc": "project3Desc",
-        "prolink": "https://4kamolov.github.io/justavtotest/"
     }
 ]
