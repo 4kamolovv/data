@@ -1,5 +1,7 @@
 {
   "uz": {
+    "project5Title": "Authenticator",
+    "project5Desc": "Firebase va JavaScript yordamida yaratilgan xavfsiz va zamonaviy autentifikatsiya tizimi.",
     "project1Title": "O‘zbek Milliy",
     "project2Title": "Test Ilova",
     "project3Title": "Avto Test",
@@ -36,6 +38,8 @@
     "Plsfilltoast": "Iltimos, barcha maydonlarni to'ldiring!"
   },
   "ru": {
+    "project5Title": "Authenticator",
+    "project5Desc": "Безопасная и современная система аутентификации, созданная с использованием Firebase и JavaScript.",
     "project1Title": "Узбек Миллий",
     "project2Title": "Тестовое Приложение",
     "project3Title": "Авто Тест",
@@ -72,6 +76,8 @@
     "Plsfilltoast": "Пожалуйста, заполните все обязательные поля!"
   },
   "en": {
+    "project5Title": "Authenticator",
+    "project5Desc": "Secure and modern authentication system built using Firebase and JavaScript technologies.",
     "project1Title": "Uzbek Milliy",
     "project2Title": "Test Application",
     "project3Title": "Avto Test",
